@@ -22,10 +22,11 @@ Este proyecto es una aplicación desarrollada en Java que implementa conceptos a
 ### Prerrequisitos
 - **Java Development Kit (JDK) 8 o superior**: Asegúrate de tener instalado el JDK.
 - **Eclipse IDE** (o cualquier otro IDE compatible con Java).
+- **IntelliJ IDEA** (Yo utilizo este editor);
 
 ### Instalación
 
 1. **Clonar el Repositorio**  
-   Clona el repositorio desde GitHub en tu entorno local:
+   Clona el repositorio desde GitHub en tu entorno local, utiliza el comando:
    ```bash
-   utilize el comando de git clone 
+   git clone https://github.com/Alberthluiiz/Guillen_Luis_POO_U2.git
