@@ -3,6 +3,8 @@
  */
 package uni1a;
 
+import java.util.List;
+
 // Subclase Pelicula que extiende de ContenidoAudiovisual
 public class Pelicula extends ContenidoAudiovisual {
     private String estudio;
@@ -19,7 +21,7 @@ public class Pelicula extends ContenidoAudiovisual {
     public void setEstudio(String estudio) {
         this.estudio = estudio;
     }
-    
+
     @Override
     public void mostrarDetalles() {
         System.out.println("Detalles de la película:");
